@@ -1,0 +1,14 @@
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\bin\Release\net8.0\NET1.exe
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\bin\Release\net8.0\NET1.deps.json
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\bin\Release\net8.0\NET1.runtimeconfig.json
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\bin\Release\net8.0\NET1.dll
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\bin\Release\net8.0\NET1.pdb
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\obj\Release\net8.0\NET1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\obj\Release\net8.0\NET1.AssemblyInfoInputs.cache
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\obj\Release\net8.0\NET1.AssemblyInfo.cs
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\obj\Release\net8.0\NET1.csproj.CoreCompileInputs.cache
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\obj\Release\net8.0\NET1.dll
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\obj\Release\net8.0\refint\NET1.dll
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\obj\Release\net8.0\NET1.pdb
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\obj\Release\net8.0\NET1.genruntimeconfig.cache
+C:\Users\emili\Bureau\Vinci\BIN3\.NET\Semaine1\NET1\NET1\obj\Release\net8.0\ref\NET1.dll

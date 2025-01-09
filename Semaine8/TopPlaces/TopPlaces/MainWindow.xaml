@@ -1,0 +1,59 @@
+﻿<Window x:Class="TopPlaces.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TopPlaces"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="TitreStyle">
+            <Setter Property="Label.FontSize" Value="18" />
+            <Setter Property="Label.BorderBrush" Value="Black"/>
+            <Setter Property="Label.BorderThickness" Value="2"/>
+            <Setter Property="Label.FontFamily" Value="Courrier New"/>
+        </Style>
+        <Style x:Key="LabelStyle">
+            <Setter Property="Label.FontSize" Value="14" />
+            <Setter Property="Label.BorderBrush" Value="Black"/>
+            <Setter Property="Label.BorderThickness" Value="2"/>
+            <Setter Property="Label.FontFamily" Value="Courrier New"/>
+        </Style>
+        <DataTemplate x:Key="ItemTemplate">
+            <StackPanel Orientation="Horizontal" Margin="0 5 0 5">
+                <Image Width="50" Height="50" Stretch="Fill" Source="{Binding Image}"
+                       VerticalAlignment="Center" HorizontalAlignment="Center" />
+                <Label Content="{Binding Desription}" VerticalAlignment="Center"
+                       HorizontalAlignment="Center" />
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <ListBox x:Name="listBoxPhotos" Margin="10,5,606,5" ItemsSource = "{Binding}" ItemTemplate="{StaticResource ItemTemplate}" SelectionChanged="listBoxPhotos_SelectionChanged"/>
+
+        <Label x:Name="labelText"
+               Content="Top Places"
+               Margin="254,5,54,0"
+               Grid.Row="0"
+               VerticalAlignment="Top"
+               Style="{StaticResource TitreStyle}"
+         />
+        <Image x:Name="imagePhoto" Margin="254,42,54,107" Grid.Row="0" Stretch="Fill"/>
+
+        <Label x:Name="Description" Content="Description :" Margin="254,334,451,71" Style="{StaticResource LabelStyle}" />
+        <Label x:Name="URI" Content="URI fichier :" Margin="254,368,451,37" Style="{StaticResource LabelStyle}" />
+        <Label x:Name="nbVotes" Content="NB Votes :" Margin="254,400,451,5" Style="{StaticResource LabelStyle}" />
+
+        <Label x:Name="votes_value" Content="{Binding ElementName=listBoxPhotos, Path=SelectedItem.NbVotes}" Margin="400,400,305,5" Style="{StaticResource LabelStyle}" />
+        <Label x:Name="uri_value" Content="{Binding ElementName=listBoxPhotos, Path=SelectedItem.PathImageFile}" Margin="400,368,305,37" Style="{StaticResource LabelStyle}" />
+        <Label x:Name="description_value" Content="{Binding ElementName=listBoxPhotos, Path=SelectedItem.Description}" Margin="400,334,305,71" Style="{StaticResource LabelStyle}" />
+
+        <Button Width="150" Background="LightBlue" Margin="550,334,120,56" Click="Button_Click">
+            <StackPanel Orientation="Horizontal" Width="113">
+                <Image Source="images\jaime.png" Height="25" Width="45" Margin="0,0,0,0" HorizontalAlignment="Left"/>
+                <TextBlock Text="Je vote pour" VerticalAlignment="Center" Width="74"/>
+            </StackPanel>
+        </Button>
+
+    </Grid>
+</Window>

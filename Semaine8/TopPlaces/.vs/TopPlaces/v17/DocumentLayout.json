@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine8\\TopPlaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7FC0CC-4D33-4233-9B5C-F8474112E2F3}|TopPlaces\\TopPlaces.csproj|c:\\users\\emili\\bureau\\vinci\\bin3\\.net\\semaine8\\topplaces\\topplaces\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E7FC0CC-4D33-4233-9B5C-F8474112E2F3}|TopPlaces\\TopPlaces.csproj|solutionrelative:topplaces\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7FC0CC-4D33-4233-9B5C-F8474112E2F3}|TopPlaces\\TopPlaces.csproj|c:\\users\\emili\\bureau\\vinci\\bin3\\.net\\semaine8\\topplaces\\topplaces\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7FC0CC-4D33-4233-9B5C-F8474112E2F3}|TopPlaces\\TopPlaces.csproj|solutionrelative:topplaces\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7FC0CC-4D33-4233-9B5C-F8474112E2F3}|TopPlaces\\TopPlaces.csproj|c:\\users\\emili\\bureau\\vinci\\bin3\\.net\\semaine8\\topplaces\\topplaces\\placedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7FC0CC-4D33-4233-9B5C-F8474112E2F3}|TopPlaces\\TopPlaces.csproj|solutionrelative:topplaces\\placedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaceData.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine8\\TopPlaces\\TopPlaces\\PlaceData.cs",
+              "RelativeDocumentMoniker": "TopPlaces\\PlaceData.cs",
+              "ToolTip": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine8\\TopPlaces\\TopPlaces\\PlaceData.cs",
+              "RelativeToolTip": "TopPlaces\\PlaceData.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:45:07.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine8\\TopPlaces\\TopPlaces\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TopPlaces\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine8\\TopPlaces\\TopPlaces\\MainWindow.xaml",
+              "RelativeToolTip": "TopPlaces\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T10:23:14.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine8\\TopPlaces\\TopPlaces\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TopPlaces\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine8\\TopPlaces\\TopPlaces\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TopPlaces\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:23:14.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

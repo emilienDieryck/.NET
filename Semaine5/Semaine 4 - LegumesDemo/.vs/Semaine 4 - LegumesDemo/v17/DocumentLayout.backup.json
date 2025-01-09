@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\LegumesRepositoryMem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\LegumesRepositoryMem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\BaseRepositorySQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\BaseRepositorySQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\LegumesRepositorySQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\LegumesRepositorySQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseRepositorySQL.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\BaseRepositorySQL.cs",
+              "RelativeDocumentMoniker": "Repositories\\BaseRepositorySQL.cs",
+              "ToolTip": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\BaseRepositorySQL.cs",
+              "RelativeToolTip": "Repositories\\BaseRepositorySQL.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAD8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:36:53.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:36:35.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LegumesRepositoryMem.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\LegumesRepositoryMem.cs",
+              "RelativeDocumentMoniker": "Repositories\\LegumesRepositoryMem.cs",
+              "ToolTip": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\LegumesRepositoryMem.cs",
+              "RelativeToolTip": "Repositories\\LegumesRepositoryMem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:36:02.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LegumesRepositorySQL.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\LegumesRepositorySQL.cs",
+              "RelativeDocumentMoniker": "Repositories\\LegumesRepositorySQL.cs",
+              "ToolTip": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Repositories\\LegumesRepositorySQL.cs",
+              "RelativeToolTip": "Repositories\\LegumesRepositorySQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:35:51.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\emili\\Bureau\\Vinci\\BIN3\\.NET\\Semaine5\\Semaine 4 - LegumesDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:34:39.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

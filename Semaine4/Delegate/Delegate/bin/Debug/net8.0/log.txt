@@ -1,0 +1,2 @@
+27/12/2024 14:40:40: Ceci est un message de test.
+27/12/2024 14:40:40: Un autre message à logger.
